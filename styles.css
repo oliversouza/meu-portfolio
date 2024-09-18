@@ -1,0 +1,28 @@
+.sidebar {
+    background-color: #f4f4f4;
+    height: calc(100vh - 50px); /* Altura da tela menos o rodapé */
+    padding: 20px;
+}
+
+.main-content {
+    background-color: #fff;
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#foto{
+    width: 150px;
+    height: 150px;
+    border-radius: 300px;
+}
+
+.custom-hr {
+    width: 80%;
+    border: 1px solid black;
+}
